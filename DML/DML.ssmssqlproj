@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DML">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ILIA\SQLEXPRESS:ILIA\ilyav">
+          <Created>2026-02-24T00:21:05.6533096+05:00</Created>
+          <Type>SQL</Type>
+          <Server>ILIA\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery0-INSERTDIRECTIONS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery0-INSERTDIRECTIONS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1-SELECTDIRECTIONS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ILIA\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ILIA\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1-SELECTDIRECTIONS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-SELECTSTUDENTS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ILIA\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ILIA\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-SELECTSTUDENTS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3-AGREGATION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ILIA\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ILIA\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3-AGREGATION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4-SELECTTEACHERS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ILIA\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ILIA\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4-SELECTTEACHERS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5-SELECTAGREGATESTUDENTSANDGROUPS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ILIA\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ILIA\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5-SELECTAGREGATESTUDENTSANDGROUPS.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
